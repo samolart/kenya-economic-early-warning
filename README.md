@@ -2,7 +2,6 @@
 
 **A data-driven framework for measuring economic stress, forecasting growth and stress-testing Kenya against external shocks.**
 
-**Live dashboard:** `https://samolart.github.io/kenya-economic-early-warning/`
 **[Live Dashboard](https://samolart.github.io/kenya-economic-early-warning/)**
 
 Built with World Bank open data for Kenya and seven African peers (Uganda, Tanzania, Rwanda, Ethiopia, Ghana, Nigeria, South Africa), 2000 to 2025.
