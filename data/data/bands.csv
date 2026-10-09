@@ -1,0 +1,5 @@
+band,from,to
+Low,0,25
+Moderate,25,50
+High,50,75
+Severe,75,100

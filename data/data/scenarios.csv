@@ -1,0 +1,6 @@
+scenario,growth_change_pp,stress_index,stress_band,slump_probability_pct
+Baseline,0.0,21.4,Low,19.5
+Oil price +30%,0.19,20.1,Low,12.8
+Inflation +3 pp,-0.12,24.8,Low,18.2
+KES depreciation +15%,-0.19,32.2,Moderate,20.7
+Regional growth -2 pp,-1.4,20.9,Low,18.6

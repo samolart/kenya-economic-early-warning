@@ -1,0 +1,7 @@
+model,n,MAE,RMSE,MAPE_%(|actual|>0.5),bias
+ETS (damped trend),21,1.66,2.289,23.086,0.169
+Mean (expanding),21,2.136,2.554,34.353,-1.499
+VAR(1) gdp-infl-oil,21,1.933,2.738,26.467,-1.066
+ARIMA (AIC grid),21,1.801,2.773,22.703,-0.443
+Ridge (ML benchmark),21,2.183,2.898,32.924,-1.291
+Naive (last value),21,2.054,3.027,29.645,0.022
