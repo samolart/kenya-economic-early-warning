@@ -64,4 +64,4 @@ World Bank, World Development Indicators and Commodity Markets (Pink Sheet). Dat
 
 ## Author
 
-YOUR NAME · YOUR LINKEDIN OR EMAIL
+Samatar Ahmed · samolart25@outlook.com
